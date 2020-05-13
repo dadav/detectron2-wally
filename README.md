@@ -15,4 +15,7 @@ Dataset: [https://github.com/tadejmagajna/HereIsWally](https://github.com/tadejm
 ./find.py <image>
 
 # quit with "q"-key
+
+# or run streamlit
+streamlit run app.py
 ```
