@@ -1,0 +1,7 @@
+__pycache__
+*.py[oc]
+venv
+images/train/*.jpg
+images/val/*.jpg
+output/*
+!output/model_final.pth
