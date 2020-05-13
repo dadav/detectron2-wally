@@ -2,6 +2,8 @@
 
 Dataset: [https://github.com/tadejmagajna/HereIsWally](https://github.com/tadejmagajna/HereIsWally)
 
+![Preview](preview.png)
+
 ## usage
 ```bash
 
