@@ -7,6 +7,7 @@ Dataset: [https://github.com/tadejmagajna/HereIsWally](https://github.com/tadejm
 
 # setup the environment
 ./setup.sh gpu # gpu or cpu
+source venv/bin/activate
 
 # train
 ./train.py
